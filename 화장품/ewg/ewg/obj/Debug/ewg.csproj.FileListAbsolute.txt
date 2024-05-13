@@ -1,0 +1,54 @@
+C:\Users\vultr\Source\Repos\ewg\ewg\obj\Debug\ewg.csproj.AssemblyReference.cache
+C:\Users\vultr\Source\Repos\ewg\ewg\obj\Debug\ewg.csproj.SuggestedBindingRedirects.cache
+C:\Users\vultr\Source\Repos\ewg\ewg\obj\Debug\ewg.exe.config
+C:\Users\vultr\Source\Repos\ewg\ewg\obj\Debug\ewg.Form1.resources
+C:\Users\vultr\Source\Repos\ewg\ewg\obj\Debug\ewg.Properties.Resources.resources
+C:\Users\vultr\Source\Repos\ewg\ewg\obj\Debug\ewg.csproj.GenerateResource.cache
+C:\Users\vultr\Source\Repos\ewg\ewg\obj\Debug\ewg.csproj.CoreCompileInputs.cache
+C:\Users\vultr\Source\Repos\ewg\ewg\bin\Debug\category.json
+C:\Users\vultr\Source\Repos\ewg\ewg\bin\Debug\ewg.exe.config
+C:\Users\vultr\Source\Repos\ewg\ewg\bin\Debug\ewg.exe
+C:\Users\vultr\Source\Repos\ewg\ewg\bin\Debug\ewg.pdb
+C:\Users\vultr\Source\Repos\ewg\ewg\bin\Debug\CsvHelper.dll
+C:\Users\vultr\Source\Repos\ewg\ewg\bin\Debug\HtmlAgilityPack.dll
+C:\Users\vultr\Source\Repos\ewg\ewg\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\vultr\Source\Repos\ewg\ewg\bin\Debug\HtmlAgilityPack.CssSelectors.NetCore.dll
+C:\Users\vultr\Source\Repos\ewg\ewg\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vultr\Source\Repos\ewg\ewg\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\vultr\Source\Repos\ewg\ewg\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vultr\Source\Repos\ewg\ewg\bin\Debug\System.Buffers.dll
+C:\Users\vultr\Source\Repos\ewg\ewg\bin\Debug\System.Memory.dll
+C:\Users\vultr\Source\Repos\ewg\ewg\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vultr\Source\Repos\ewg\ewg\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vultr\Source\Repos\ewg\ewg\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\vultr\Source\Repos\ewg\ewg\obj\Debug\ewg.csproj.CopyComplete
+C:\Users\vultr\Source\Repos\ewg\ewg\obj\Debug\ewg.exe
+C:\Users\vultr\Source\Repos\ewg\ewg\obj\Debug\ewg.pdb
+C:\Users\kkinh\OneDrive\바탕 화면\ewg\ewg\bin\Debug\category.json
+C:\Users\kkinh\OneDrive\바탕 화면\ewg\ewg\bin\Debug\ewg.exe.config
+C:\Users\kkinh\OneDrive\바탕 화면\ewg\ewg\bin\Debug\ewg.exe
+C:\Users\kkinh\OneDrive\바탕 화면\ewg\ewg\bin\Debug\ewg.pdb
+C:\Users\kkinh\OneDrive\바탕 화면\ewg\ewg\bin\Debug\CsvHelper.dll
+C:\Users\kkinh\OneDrive\바탕 화면\ewg\ewg\bin\Debug\HtmlAgilityPack.dll
+C:\Users\kkinh\OneDrive\바탕 화면\ewg\ewg\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\kkinh\OneDrive\바탕 화면\ewg\ewg\bin\Debug\HtmlAgilityPack.CssSelectors.NetCore.dll
+C:\Users\kkinh\OneDrive\바탕 화면\ewg\ewg\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kkinh\OneDrive\바탕 화면\ewg\ewg\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\kkinh\OneDrive\바탕 화면\ewg\ewg\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kkinh\OneDrive\바탕 화면\ewg\ewg\bin\Debug\System.Buffers.dll
+C:\Users\kkinh\OneDrive\바탕 화면\ewg\ewg\bin\Debug\System.Memory.dll
+C:\Users\kkinh\OneDrive\바탕 화면\ewg\ewg\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kkinh\OneDrive\바탕 화면\ewg\ewg\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kkinh\OneDrive\바탕 화면\ewg\ewg\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kkinh\OneDrive\바탕 화면\ewg\ewg\obj\Debug\ewg.csproj.AssemblyReference.cache
+C:\Users\kkinh\OneDrive\바탕 화면\ewg\ewg\obj\Debug\ewg.exe.config
+C:\Users\kkinh\OneDrive\바탕 화면\ewg\ewg\obj\Debug\ewg.Properties.Resources.resources
+C:\Users\kkinh\OneDrive\바탕 화면\ewg\ewg\obj\Debug\ewg.csproj.GenerateResource.cache
+C:\Users\kkinh\OneDrive\바탕 화면\ewg\ewg\obj\Debug\ewg.csproj.CoreCompileInputs.cache
+C:\Users\kkinh\OneDrive\바탕 화면\ewg\ewg\obj\Debug\ewg.csproj.CopyComplete
+C:\Users\kkinh\OneDrive\바탕 화면\ewg\ewg\obj\Debug\ewg.exe
+C:\Users\kkinh\OneDrive\바탕 화면\ewg\ewg\obj\Debug\ewg.pdb
+C:\Users\kkinh\OneDrive\바탕 화면\ewg\ewg\bin\Debug\MetroFramework.Design.dll
+C:\Users\kkinh\OneDrive\바탕 화면\ewg\ewg\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\kkinh\OneDrive\바탕 화면\ewg\ewg\bin\Debug\MetroFramework.dll
+C:\Users\kkinh\OneDrive\바탕 화면\ewg\ewg\obj\Debug\EWG_Scraper.Form1.resources

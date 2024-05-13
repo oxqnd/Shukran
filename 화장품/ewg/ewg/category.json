@@ -1,0 +1,621 @@
+[
+  {
+    "cat": "MAKEUP",
+    "sub": [
+      {
+        "cat": "Blush",
+        "href": "https://www.ewg.org/skindeep/browse/category/Blush/"
+      },
+      {
+        "cat": "Bronzer_Highlighter",
+        "href": "https://www.ewg.org/skindeep/browse/category/Bronzer__Highlighter/"
+      },
+      {
+        "cat": "Concealer",
+        "href": "https://www.ewg.org/skindeep/browse/category/Concealer/"
+      },
+      {
+        "cat": "Facial Powder",
+        "href": "https://www.ewg.org/skindeep/browse/category/Facial_powder/"
+      },
+      {
+        "cat": "Foundation",
+        "href": "https://www.ewg.org/skindeep/browse/category/Foundation/"
+      },
+      {
+        "cat": "Primer",
+        "href": "https://www.ewg.org/skindeep/browse/category/Makeup_primer/"
+      },
+      {
+        "cat": "Remover",
+        "href": "https://www.ewg.org/skindeep/browse/category/Makeup_remover/"
+      },
+      {
+        "cat": "Brow Liner",
+        "href": "https://www.ewg.org/skindeep/browse/category/Brow_liner/"
+      },
+      {
+        "cat": "Eye Liner",
+        "href": "https://www.ewg.org/skindeep/browse/category/Eye_liner/"
+      },
+      {
+        "cat": "Eye Makeup Remover",
+        "href": "https://www.ewg.org/skindeep/browse/category/Eye_makeup_remover/"
+      },
+      {
+        "cat": "Eye Shadow",
+        "href": "https://www.ewg.org/skindeep/browse/category/Eye_shadow/"
+      },
+      {
+        "cat": "Mascara",
+        "href": "https://www.ewg.org/skindeep/browse/category/Mascara/"
+      },
+      {
+        "cat": "Eyelash Glue",
+        "href": "https://www.ewg.org/skindeep/browse/category/Eyelash_glue/"
+      },
+      {
+        "cat": "Other Eye Makeup",
+        "href": "https://www.ewg.org/skindeep/browse/category/Other_eye_makeup/"
+      },
+      {
+        "cat": "Lip Balm",
+        "href": "https://www.ewg.org/skindeep/browse/category/Lip_balm/"
+      },
+      {
+        "cat": "Lip Gloss",
+        "href": "https://www.ewg.org/skindeep/browse/category/Lip_gloss/"
+      },
+      {
+        "cat": "Lip Liner",
+        "href": "https://www.ewg.org/skindeep/browse/category/Lip_liner/"
+      },
+      {
+        "cat": "Lip Plumper",
+        "href": "https://www.ewg.org/skindeep/browse/category/Lip_plumper/"
+      },
+      {
+        "cat": "Lipstick",
+        "href": "https://www.ewg.org/skindeep/browse/category/Lipstick/"
+      },
+      {
+        "cat": "Lip balm with SPF",
+        "href": "https://www.ewg.org/sunscreen/about-the-sunscreens/?category=lip+balm+with+SPF"
+      },
+      {
+        "cat": "Body Art",
+        "href": "https://www.ewg.org/skindeep/browse/category/Body_art/"
+      },
+      {
+        "cat": "Glitter",
+        "href": "https://www.ewg.org/skindeep/browse/category/Glitter/"
+      }
+    ]
+  },
+  {
+    "cat": "NAILS",
+    "sub": [
+      {
+        "cat": "Nail Glue",
+        "href": "https://www.ewg.org/skindeep/browse/category/Nail_glue/"
+      },
+      {
+        "cat": "Nail Polish",
+        "href": "https://www.ewg.org/skindeep/browse/category/Nail_polish/"
+      },
+      {
+        "cat": "Polish Remover",
+        "href": "https://www.ewg.org/skindeep/browse/category/Polish_remover/"
+      },
+      {
+        "cat": "Cuticle Treatment",
+        "href": "https://www.ewg.org/skindeep/browse/category/Cuticle_treatment/"
+      },
+      {
+        "cat": "Nail Treatment",
+        "href": "https://www.ewg.org/skindeep/browse/category/Nail_treatment/"
+      }
+    ]
+  },
+  {
+    "cat": "FACE & BODY",
+    "sub": [
+      {
+        "cat": "Anti Aging",
+        "href": "https://www.ewg.org/skindeep/browse/category/Anti-aging/"
+      },
+      {
+        "cat": "Around Eye Cream",
+        "href": "https://www.ewg.org/skindeep/browse/category/Around-eye_cream/"
+      },
+      {
+        "cat": "BB Cream",
+        "href": "https://www.ewg.org/skindeep/browse/category/BB_Cream/"
+      },
+      {
+        "cat": "CC Cream",
+        "href": "https://www.ewg.org/skindeep/browse/category/CC_Cream/"
+      },
+      {
+        "cat": "Facial Cleanser",
+        "href": "https://www.ewg.org/skindeep/browse/category/Facial_cleanser/"
+      },
+      {
+        "cat": "Facial Moisturizer_Treatment",
+        "href": "https://www.ewg.org/skindeep/browse/category/Facial_moisturizer__treatment/"
+      },
+      {
+        "cat": "Remover",
+        "href": "https://www.ewg.org/skindeep/browse/category/Makeup_remover/"
+      },
+      {
+        "cat": "Mask",
+        "href": "https://www.ewg.org/skindeep/browse/category/Mask/"
+      },
+      {
+        "cat": "Oil Controller",
+        "href": "https://www.ewg.org/skindeep/browse/category/Oil_controller/"
+      },
+      {
+        "cat": "Pore Strips",
+        "href": "https://www.ewg.org/skindeep/browse/category/Pore_strips/"
+      },
+      {
+        "cat": "Serums & Essences",
+        "href": "https://www.ewg.org/skindeep/browse/category/Serums_&_Essences/"
+      },
+      {
+        "cat": "Skin Fading_Lightener",
+        "href": "https://www.ewg.org/skindeep/browse/category/Skin_fading__lightener/"
+      },
+      {
+        "cat": "Toners_Astringents",
+        "href": "https://www.ewg.org/skindeep/browse/category/Toners__astringents/"
+      },
+      {
+        "cat": "After Sun Product",
+        "href": "https://www.ewg.org/skindeep/browse/category/After_sun_product/"
+      },
+      {
+        "cat": "Antiperspirant_Deodorant",
+        "href": "https://www.ewg.org/skindeep/browse/category/Antiperspirant__deodorant/"
+      },
+      {
+        "cat": "Bar Soap",
+        "href": "https://www.ewg.org/skindeep/browse/category/Bar_soap/"
+      },
+      {
+        "cat": "Bath Oil_Salts_Soak",
+        "href": "https://www.ewg.org/skindeep/browse/category/Bath_oil__salts__soak/"
+      },
+      {
+        "cat": "Body Firming Lotion",
+        "href": "https://www.ewg.org/skindeep/browse/category/Body_firming_lotion/"
+      },
+      {
+        "cat": "Body Oil",
+        "href": "https://www.ewg.org/skindeep/browse/category/Body_oil/"
+      },
+      {
+        "cat": "Body Wash_Cleanser",
+        "href": "https://www.ewg.org/skindeep/browse/category/Body_wash__cleanser/"
+      },
+      {
+        "cat": "Bubble Bath",
+        "href": "https://www.ewg.org/skindeep/browse/category/Bubble_bath/"
+      },
+      {
+        "cat": "Exfoliant_Scrub",
+        "href": "https://www.ewg.org/skindeep/browse/category/Exfoliant__scrub/"
+      },
+      {
+        "cat": "Foot Cleansing",
+        "href": "https://www.ewg.org/skindeep/browse/category/Foot_cleansing/"
+      },
+      {
+        "cat": "Foot Moisturizer",
+        "href": "https://www.ewg.org/skindeep/browse/category/Foot_moisturizer/"
+      },
+      {
+        "cat": "Foot Odor Control",
+        "href": "https://www.ewg.org/skindeep/browse/category/Foot_odor_control/"
+      },
+      {
+        "cat": "Hand Cream",
+        "href": "https://www.ewg.org/skindeep/browse/category/Hand_cream/"
+      },
+      {
+        "cat": "Hand Sanitizer",
+        "href": "https://www.ewg.org/skindeep/browse/category/Hand_sanitizer/"
+      },
+      {
+        "cat": "Liquid Hand Soap",
+        "href": "https://www.ewg.org/skindeep/browse/category/Liquid_hand_soap/"
+      },
+      {
+        "cat": "Moisturizer",
+        "href": "https://www.ewg.org/skindeep/browse/category/Moisturizer/"
+      },
+      {
+        "cat": "Muscle_Joint Soreness",
+        "href": "https://www.ewg.org/skindeep/browse/category/Muscle__joint_soreness/"
+      }
+    ]
+  },
+  {
+    "cat": "ORAL CARE",
+    "sub": [
+      {
+        "cat": "Baby Toothpaste",
+        "href": "https://www.ewg.org/skindeep/browse/category/Baby_toothpaste/"
+      },
+      {
+        "cat": "Mouthwash",
+        "href": "https://www.ewg.org/skindeep/browse/category/Mouthwash/"
+      },
+      {
+        "cat": "Tooth Whitening",
+        "href": "https://www.ewg.org/skindeep/browse/category/Tooth_whitening/"
+      },
+      {
+        "cat": "Toothpaste",
+        "href": "https://www.ewg.org/skindeep/browse/category/Toothpaste/"
+      }
+    ]
+  },
+  {
+    "cat": "HAIR",
+    "sub": [
+      {
+        "cat": "Baby Shampoo",
+        "href": "https://www.ewg.org/skindeep/browse/category/Baby_shampoo/"
+      },
+      {
+        "cat": "Conditioner",
+        "href": "https://www.ewg.org/skindeep/browse/category/Conditioner/"
+      },
+      {
+        "cat": "Shampoo",
+        "href": "https://www.ewg.org/skindeep/browse/category/Shampoo/"
+      },
+      {
+        "cat": "Detangler",
+        "href": "https://www.ewg.org/skindeep/browse/category/Detangler/"
+      },
+      {
+        "cat": "Hair Color And Bleaching",
+        "href": "https://www.ewg.org/skindeep/browse/category/Hair_color_and_bleaching/"
+      },
+      {
+        "cat": "Hair Relaxer",
+        "href": "https://www.ewg.org/skindeep/browse/category/Hair_relaxer/"
+      },
+      {
+        "cat": "Hair Spray",
+        "href": "https://www.ewg.org/skindeep/browse/category/Hair_spray/"
+      },
+      {
+        "cat": "Styling Gel_Lotion",
+        "href": "https://www.ewg.org/skindeep/browse/category/Styling_gel__lotion/"
+      },
+      {
+        "cat": "Styling Mousse_Foam",
+        "href": "https://www.ewg.org/skindeep/browse/category/Styling_mousse__foam/"
+      },
+      {
+        "cat": "Depilatory",
+        "href": "https://www.ewg.org/skindeep/browse/category/Depilatory/"
+      },
+      {
+        "cat": "Hair Removal Waxes",
+        "href": "https://www.ewg.org/skindeep/browse/category/Hair_removal_waxes/"
+      },
+      {
+        "cat": "Baby Shampoo",
+        "href": "https://www.ewg.org/skindeep/browse/category/Baby_shampoo/?marketed_for=kinky_hair"
+      },
+      {
+        "cat": "Conditioner",
+        "href": "https://www.ewg.org/skindeep/browse/category/Conditioner/?marketed_for=kinky_hair"
+      },
+      {
+        "cat": "Detangler",
+        "href": "https://www.ewg.org/skindeep/browse/category/Detangler/?marketed_for=kinky_hair"
+      },
+      {
+        "cat": "Hair Color And Bleaching",
+        "href": "https://www.ewg.org/skindeep/browse/category/Hair_color_and_bleaching/?marketed_for=kinky_hair"
+      },
+      {
+        "cat": "Hair Relaxer",
+        "href": "https://www.ewg.org/skindeep/browse/category/Hair_relaxer/?marketed_for=kinky_hair"
+      },
+      {
+        "cat": "Hair Removal Waxes",
+        "href": "https://www.ewg.org/skindeep/browse/category/Hair_removal_waxes/?marketed_for=kinky_hair"
+      },
+      {
+        "cat": "Hair Spray",
+        "href": "https://www.ewg.org/skindeep/browse/category/Hair_spray/?marketed_for=kinky_hair"
+      },
+      {
+        "cat": "Hair Styling Aide",
+        "href": "https://www.ewg.org/skindeep/browse/category/Hair_styling_aide/?marketed_for=kinky_hair"
+      },
+      {
+        "cat": "Hair Treatment_Serum",
+        "href": "https://www.ewg.org/skindeep/browse/category/Hair_treatment__serum/?marketed_for=kinky_hair"
+      },
+      {
+        "cat": "Hair Loss Treatment",
+        "href": "https://www.ewg.org/skindeep/browse/category/Hair-loss_treatment/?marketed_for=kinky_hair"
+      },
+      {
+        "cat": "Shampoo",
+        "href": "https://www.ewg.org/skindeep/browse/category/Shampoo/?marketed_for=kinky_hair"
+      },
+      {
+        "cat": "Shaving Cream",
+        "href": "https://www.ewg.org/skindeep/browse/category/Shaving_cream/?marketed_for=kinky_hair"
+      },
+      {
+        "cat": "Styling Gel_Lotion",
+        "href": "https://www.ewg.org/skindeep/browse/category/Styling_gel__lotion/?marketed_for=kinky_hair"
+      },
+      {
+        "cat": "Styling Mousse_Foam",
+        "href": "https://www.ewg.org/skindeep/browse/category/Styling_mousse__foam/?marketed_for=kinky_hair"
+      }
+    ]
+  },
+  {
+    "cat": "FRAGRANCE",
+    "sub": [
+      {
+        "cat": "Body Spray",
+        "href": "https://www.ewg.org/skindeep/browse/category/Body_Spray/"
+      },
+      {
+        "cat": "Fragrance For Men",
+        "href": "https://www.ewg.org/skindeep/browse/category/Fragrance_for_men/"
+      },
+      {
+        "cat": "Fragrance For Women",
+        "href": "https://www.ewg.org/skindeep/browse/category/Fragrance_for_women/"
+      }
+    ]
+  },
+  {
+    "cat": "BABIES",
+    "sub": [
+      {
+        "cat": "Baby Bubble Bath",
+        "href": "https://www.ewg.org/skindeep/browse/category/Baby_bubble_bath/"
+      },
+      {
+        "cat": "Baby Lotion",
+        "href": "https://www.ewg.org/skindeep/browse/category/Baby_lotion/"
+      },
+      {
+        "cat": "Baby Oil",
+        "href": "https://www.ewg.org/skindeep/browse/category/Baby_oil/"
+      },
+      {
+        "cat": "Baby Powder",
+        "href": "https://www.ewg.org/skindeep/browse/category/Baby_powder/"
+      },
+      {
+        "cat": "Baby Shampoo",
+        "href": "https://www.ewg.org/skindeep/browse/category/Baby_shampoo/"
+      },
+      {
+        "cat": "Baby Soap",
+        "href": "https://www.ewg.org/skindeep/browse/category/Baby_soap/"
+      },
+      {
+        "cat": "Baby Sunscreen",
+        "href": "https://www.ewg.org/sunscreen/about-the-sunscreens/?category=baby+sunscreen"
+      },
+      {
+        "cat": "Baby Toothpaste",
+        "href": "https://www.ewg.org/skindeep/browse/category/Baby_toothpaste/"
+      },
+      {
+        "cat": "Baby Wipes",
+        "href": "https://www.ewg.org/skindeep/browse/category/Baby_wipes/"
+      },
+      {
+        "cat": "Diaper Cream",
+        "href": "https://www.ewg.org/skindeep/browse/category/Diaper_cream/"
+      },
+      {
+        "cat": "Diapers",
+        "href": "https://www.ewg.org/skindeep/browse/category/Diapers/"
+      }
+    ]
+  },
+  {
+    "cat": "MEN",
+    "sub": [
+      {
+        "cat": "After Shave",
+        "href": "https://www.ewg.org/skindeep/browse/category/After_shave/?marketed_for=men"
+      },
+      {
+        "cat": "Beard Oil",
+        "href": "https://www.ewg.org/skindeep/browse/category/Beard_oil/"
+      },
+      {
+        "cat": "Beard Care",
+        "href": "https://www.ewg.org/skindeep/browse/category/Beard_care/"
+      },
+      {
+        "cat": "Beard Cleanser",
+        "href": "https://www.ewg.org/skindeep/browse/category/Beard_cleanser/"
+      },
+      {
+        "cat": "Facial Cleanser",
+        "href": "https://www.ewg.org/skindeep/browse/category/Facial_cleanser/?marketed_for=men"
+      },
+      {
+        "cat": "Facial Moisturizer_Treatment",
+        "href": "https://www.ewg.org/skindeep/browse/category/Facial_moisturizer__treatment/?marketed_for=men"
+      },
+      {
+        "cat": "Shaving Cream",
+        "href": "https://www.ewg.org/skindeep/browse/category/Shaving_cream/?marketed_for=men"
+      },
+      {
+        "cat": "Antiperspirant_Deodorant",
+        "href": "https://www.ewg.org/skindeep/browse/category/Antiperspirant__deodorant/?marketed_for=men"
+      },
+      {
+        "cat": "Body Spray",
+        "href": "https://www.ewg.org/skindeep/browse/category/Body_spray/?marketed_for=men"
+      },
+      {
+        "cat": "Body Wash_Cleanser",
+        "href": "https://www.ewg.org/skindeep/browse/category/Body_wash__cleanser/?marketed_for=men"
+      },
+      {
+        "cat": "Fragrance For Men",
+        "href": "https://www.ewg.org/skindeep/browse/category/Fragrance_for_men/?marketed_for=men"
+      },
+      {
+        "cat": "Hair color and bleaching",
+        "href": "https://www.ewg.org/skindeep/browse/category/Hair%20color%20and%20bleaching/?marketed_for=men"
+      },
+      {
+        "cat": "Hair Loss Treatment",
+        "href": "https://www.ewg.org/skindeep/browse/category/Hair-loss_treatment/?marketed_for=men"
+      },
+      {
+        "cat": "Shampoo",
+        "href": "https://www.ewg.org/skindeep/browse/category/Shampoo/?marketed_for=men"
+      },
+      {
+        "cat": "Styling Gel_Lotion",
+        "href": "https://www.ewg.org/skindeep/browse/category/Styling_gel__lotion/?marketed_for=men"
+      }
+    ]
+  },
+  {
+    "cat": "SUN",
+    "sub": [
+      {
+        "cat": "After Sun Product",
+        "href": "https://www.ewg.org/skindeep/browse/category/After_sun_product/"
+      },
+      {
+        "cat": "Sunless Tanning",
+        "href": "https://www.ewg.org/skindeep/browse/category/Sunless_tanning/"
+      },
+      {
+        "cat": "Lip Balm with SPF",
+        "href": "https://www.ewg.org/sunscreen/about-the-sunscreens/?category=lip+balm+with+SPF"
+      },
+      {
+        "cat": "Daily Use SPF",
+        "href": "https://www.ewg.org/sunscreen/about-the-sunscreens/?category=moisturizer+with+SPF"
+      },
+      {
+        "cat": "Recreational Sunscreen",
+        "href": "https://www.ewg.org/sunscreen/about-the-sunscreens/?category=beach+%26+sport+sunscreen"
+      },
+      {
+        "cat": "Baby Sunscreen",
+        "href": "https://www.ewg.org/sunscreen/about-the-sunscreens/?category=baby+sunscreen"
+      }
+    ]
+  },
+  {
+    "cat": "Korea Brand",
+    "sub": [
+      {
+        "cat": "TonyMoly",
+        "href": "https://www.ewg.org/skindeep/browse/brands/7411-TonyMoly/?brand=TonyMoly"
+      },
+      {
+        "cat": "COSRX",
+        "href": "https://www.ewg.org/skindeep/browse/brands/7504-COSRX/"
+      },
+      {
+        "cat": "innisfree",
+        "href": "https://www.ewg.org/skindeep/browse/brands/7563-innisfree/"
+      },
+      {
+        "cat": "Banila Co",
+        "href": "https://www.ewg.org/skindeep/browse/brands/8227-Banila_Co/"
+      },
+      {
+        "cat": "Whamisa",
+        "href": "https://www.ewg.org/skindeep/browse/brands/7231-Whamisa/"
+      },
+      {
+        "cat": "AROMATICA",
+        "href": "https://www.ewg.org/skindeep/browse/brands/5318-AROMATICA/"
+      },
+      {
+        "cat": "AmorePacific",
+        "href": "https://www.ewg.org/skindeep/browse/brands/5169-AmorePacific/"
+      },
+      {
+        "cat": "Olivarrier",
+        "href": "https://www.ewg.org/skindeep/browse/brands/7219-Olivarrier/"
+      },
+      {
+        "cat": "Missha",
+        "href": "https://www.ewg.org/skindeep/browse/brands/6712-Missha/"
+      },
+      {
+        "cat": "belif",
+        "href": "https://www.ewg.org/skindeep/browse/brands/7541-belif/"
+      },
+      {
+        "cat": "Etude",
+        "href": "https://www.ewg.org/skindeep/browse/brands/7508-Etude_House/"
+      },
+      {
+        "cat": "April Skin",
+        "href": "https://www.ewg.org/skindeep/browse/brands/7502-Blithe/"
+      },
+      {
+        "cat": "Blithe",
+        "href": "https://www.ewg.org/skindeep/browse/brands/7502-Blithe/"
+      },
+      {
+        "cat": "Purito",
+        "href": "https://www.ewg.org/skindeep/browse/brands/7465-Purito/"
+      },
+      {
+        "cat": "Cremorlab",
+        "href": "https://www.ewg.org/skindeep/browse/brands/7505-Cremorlab/"
+      },
+      {
+        "cat": "Neogen",
+        "href": "https://www.ewg.org/skindeep/browse/brands/7523-Neogen/"
+      },
+      {
+        "cat": "Huxley",
+        "href": "https://www.ewg.org/skindeep/browse/brands/7514-Huxley/"
+      },
+      {
+        "cat": "Hanskin",
+        "href": "https://www.ewg.org/skindeep/browse/brands/7513-Hanskin/"
+      },
+      {
+        "cat": "Mamonde",
+        "href": "https://www.ewg.org/skindeep/browse/brands/7540-Mamonde/"
+      }
+    ]
+  },
+  {
+    "cat": "Ingredients",
+    "sub": [
+      {
+        "cat": "ingredients",
+        "href": "https://www.ewg.org/skindeep/search/?page=1&search=&search_type=ingredients"
+      }
+    ]
+  }
+]
